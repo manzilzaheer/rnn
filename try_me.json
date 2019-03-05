@@ -34,6 +34,40 @@
       "name": "pt_104128",
       "children": [
         {
+          "name": "pt_24999",
+          "children": [
+            {
+              "name": "best_int_8292",
+              "children": [
+                {
+                  "name": "pt_86863",
+                  "category": "criticism"
+                },
+                {
+                  "name": "pt_86863",
+                  "category": "feedback"
+                },
+                {
+                  "name": "pt_87681",
+                  "category": "opinions"
+                },
+                {
+                  "name": "pt_84574",
+                  "category": "reviews"
+                },
+                {
+                  "name": "pt_84574",
+                  "category": "reception"
+                },
+                {
+                  "name": "pt_104096",
+                  "category": "scores"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "pt_85840",
           "category": "sentiment"
         },
@@ -47,73 +81,28 @@
       "name": "best_int_4",
       "children": [
         {
-          "name": "best_int_8292",
-          "children": [
-            {
-              "name": "pt_86863",
-              "category": "criticism"
-            },
-            {
-              "name": "pt_86863",
-              "category": "feedback"
-            },
-            {
-              "name": "pt_87681",
-              "category": "opinions"
-            },
-            {
-              "name": "pt_84574",
-              "category": "reviews"
-            },
-            {
-              "name": "pt_84574",
-              "category": "reception"
-            },
-            {
-              "name": "pt_104096",
-              "category": "scores"
-            }
-          ]
-        },
-        {
           "name": "best_int_5888",
           "children": [
             {
-              "name": "pt_84574",
-              "category": "functions"
-            },
-            {
-              "name": "pt_85049",
-              "category": "solution"
-            },
-            {
-              "name": "pt_85389",
-              "category": "differential"
-            },
-            {
-              "name": "pt_85840",
-              "category": "equation"
-            }
-          ]
-        },
-        {
-          "name": "pt_104128",
-          "children": [
-            {
-              "name": "pt_89397",
-              "category": "case"
-            },
-            {
-              "name": "pt_85840",
-              "category": "decision"
-            },
-            {
-              "name": "pt_104127",
-              "category": "judgment"
-            },
-            {
-              "name": "pt_104127",
-              "category": "opinion"
+              "name": "pt_104128",
+              "children": [
+                {
+                  "name": "pt_89397",
+                  "category": "case"
+                },
+                {
+                  "name": "pt_85840",
+                  "category": "decision"
+                },
+                {
+                  "name": "pt_104127",
+                  "category": "judgment"
+                },
+                {
+                  "name": "pt_104127",
+                  "category": "opinion"
+                }
+              ]
             }
           ]
         }

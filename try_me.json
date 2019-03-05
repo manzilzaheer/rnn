@@ -5,75 +5,46 @@
       "name": "best_int_20957",
       "children": [
         {
-          "name": "pt_42440",
-          "category": "assessment"
-        },
-        {
-          "name": "pt_94744",
-          "category": "belief"
-        },
-        {
-          "name": "pt_108458",
-          "category": "opinion"
-        },
-        {
-          "name": "pt_108941",
-          "category": "position"
-        },
-        {
-          "name": "pt_110125",
-          "category": "view"
-        },
-        {
-          "name": "pt_110125",
-          "category": "viewpoint"
-        }
-      ]
-    },
-    {
-      "name": "pt_104128",
-      "children": [
-        {
-          "name": "pt_24999",
+          "name": "best_int_20957",
           "children": [
             {
-              "name": "best_int_8292",
-              "children": [
-                {
-                  "name": "pt_86863",
-                  "category": "criticism"
-                },
-                {
-                  "name": "pt_86863",
-                  "category": "feedback"
-                },
-                {
-                  "name": "pt_87681",
-                  "category": "opinions"
-                },
-                {
-                  "name": "pt_84574",
-                  "category": "reviews"
-                },
-                {
-                  "name": "pt_84574",
-                  "category": "reception"
-                },
-                {
-                  "name": "pt_104096",
-                  "category": "scores"
-                }
-              ]
+              "name": "pt_42440",
+              "category": "angle"
+            },
+            {
+              "name": "pt_94744",
+              "category": "arrows"
+            },
+            {
+              "name": "pt_108458",
+              "category": "diagonal"
+            },
+            {
+              "name": "pt_108941",
+              "category": "triangle"
             }
           ]
         },
         {
-          "name": "pt_85840",
-          "category": "sentiment"
-        },
-        {
-          "name": "pt_104127",
-          "category": "opinion"
+          "name": "best_int_20957",
+          "children": [
+            {
+              "name": "pt_42440",
+              "category": "cube"
+            },
+            {
+              "name": "pt_94744",
+              "category": "square"
+            },
+            {
+              "name": "pt_108458",
+              "category": "plane"
+            },
+            {
+              "name": "pt_108941",
+              "category": "spiral"
+            }
+          ]
         }
       ]
     },
@@ -88,19 +59,19 @@
               "children": [
                 {
                   "name": "pt_89397",
-                  "category": "case"
+                  "category": "bond"
                 },
                 {
                   "name": "pt_85840",
-                  "category": "decision"
+                  "category": "relationship"
                 },
                 {
                   "name": "pt_104127",
-                  "category": "judgment"
+                  "category": "romance"
                 },
                 {
                   "name": "pt_104127",
-                  "category": "opinion"
+                  "category": "triangle"
                 }
               ]
             }

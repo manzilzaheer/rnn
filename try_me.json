@@ -6,23 +6,27 @@
       "children": [
         {
           "name": "pt_42440",
-          "category": "function"
+          "category": "assessment"
         },
         {
           "name": "pt_94744",
-          "category": "behave"
+          "category": "belief"
         },
         {
           "name": "pt_108458",
-          "category": "serve"
+          "category": "opinion"
         },
         {
           "name": "pt_108941",
-          "category": "operate"
+          "category": "position"
         },
         {
           "name": "pt_110125",
-          "category": "perform"
+          "category": "view"
+        },
+        {
+          "name": "pt_110125",
+          "category": "viewpoint"
         }
       ]
     },
@@ -31,11 +35,11 @@
       "children": [
         {
           "name": "pt_85840",
-          "category": "equation"
+          "category": "sentiment"
         },
         {
           "name": "pt_104127",
-          "category": "age"
+          "category": "opinion"
         }
       ]
     },
@@ -47,19 +51,27 @@
           "children": [
             {
               "name": "pt_86863",
-              "category": "code"
+              "category": "criticism"
+            },
+            {
+              "name": "pt_86863",
+              "category": "feedback"
             },
             {
               "name": "pt_87681",
-              "category": "programming"
+              "category": "opinions"
             },
             {
               "name": "pt_84574",
-              "category": "function"
+              "category": "reviews"
+            },
+            {
+              "name": "pt_84574",
+              "category": "reception"
             },
             {
               "name": "pt_104096",
-              "category": "older"
+              "category": "scores"
             }
           ]
         },
@@ -88,12 +100,20 @@
           "name": "pt_104128",
           "children": [
             {
+              "name": "pt_89397",
+              "category": "case"
+            },
+            {
               "name": "pt_85840",
-              "category": "equation"
+              "category": "decision"
             },
             {
               "name": "pt_104127",
-              "category": "age"
+              "category": "judgment"
+            },
+            {
+              "name": "pt_104127",
+              "category": "opinion"
             }
           ]
         }
